@@ -45,6 +45,10 @@ into the {body} of the default.hbs template -->
             <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
             </figure>
             {% endif %}
+            {% if page.link %}
+            <figure class="post-full-image" style="background-image: url({{ page.link }})">
+            </figure>
+            {% endif %}
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
@@ -134,6 +138,9 @@ into the {body} of the default.hbs template -->
                         {% else %}
                             {% if page.cover %}
                                 style="background-image: url(url({{ site.baseurl }}{{ page.cover }})"{% endif %}
+                                {% else %}
+                                    {% if page.link %}
+                                        style="background-image: url(url({{ page.link }})"{% endif %}
                         {% endif %}
                     >
                         <header class="read-next-card-header">
