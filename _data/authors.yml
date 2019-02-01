@@ -14,11 +14,11 @@ hannah:
   location: India, Maharashtra
   url_full: False
   url: False
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
+  bio: Abhay is the co-founder and lead developer at MeruDynamics. He spends his days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
+  picture: assets/images/ghost.png
   facebook: False
   twitter: False
-  cover: assets/images/hannah-cover.jpg
+  cover: assets/images/ghost.png
 john:
   username: john
   name: John O'Nolan

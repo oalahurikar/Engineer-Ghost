@@ -18,3 +18,11 @@ simulation:
   name: simulation
   description: Rapid prototyping and development
   cover: False
+Industry 4.0:
+  name: Industry 4.0
+  description: Next
+  cover: False
+Artificial-Intelligence:
+  name: Artificial-Intelligence
+  description: Next
+  cover: False

@@ -65,6 +65,10 @@
 <lastmod>2019-01-30T05:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/Convolution-neural-network-and-quality-control</loc>
+<lastmod>2019-02-01T05:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -84,6 +88,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/simulation/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/industry-4.0/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/artificial-intelligence/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/author/ghost/</loc>
