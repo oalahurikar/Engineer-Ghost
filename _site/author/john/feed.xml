@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/author/john/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-02-01T12:21:26-05:00</updated>
+  <updated>2019-02-02T10:39:33-05:00</updated>
   <id>http://localhost:4000/author/john/feed.xml</id>
 
   
@@ -42,6 +42,50 @@
   
   
 
+  
+    <entry>
+      <title type="html">Rapid prototyping with Motion Simulation for machine design</title>
+      <link href="http://localhost:4000/Rapid-prototyping-with-Motion-Simulation-for-machine-designee" rel="alternate" type="text/html" title="Rapid prototyping with Motion Simulation for machine design" />
+      <published>2019-02-01T05:00:00-05:00</published>
+      <updated>2019-02-01T05:00:00-05:00</updated>
+      <id>http://localhost:4000/Rapid-prototyping-with-Motion-Simulation-for-machine-designee</id>
+      <content type="html" xml:base="http://localhost:4000/Rapid-prototyping-with-Motion-Simulation-for-machine-designee">&lt;p&gt;Integrating Solidworks assembly into controls environment will allow rapid prototyping, testing and improve parallel development process.&lt;/p&gt;
+
+&lt;p&gt;This is possible by Interfacing Labview NI SoftMotion or Simscape multibody dynamics with Solidworks motion simulation. Where one can easily import solidworks design into Simulink or labview environment.&lt;/p&gt;
+
+&lt;p&gt;Motion simulation- also known as rigid body dynamics provides complete, quantitative information about the kinematics—including position, velocity, and acceleration, and the dynamics— including joint reactions, inertial forces, and power requirements, of all the components of a moving mechanism from CAD design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/6f5b3ljtzewazy7/Multibody.JPG?dl=0&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This integration will allow development and testing of controls software against CAD design. And CAD or FEA design against controls system. Which will eventually accelerate product design and software development process.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>John O'Nolan</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Industry 4.0" />
+      
+        <category term="Rapid prototyping" />
+      
+
+      
+        <summary type="html">Integrating Solidworks assembly into controls environment will allow rapid prototyping, testing and improve parallel development process.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">A Full and Comprehensive Style Test</title>

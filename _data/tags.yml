@@ -2,8 +2,8 @@ speeches:
   name: speeches
   description: Some of the greatest words ever spoken.
   cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+Rapid prototyping:
+  name: Rapid prototyping
   description: False
   cover: False
 fables:

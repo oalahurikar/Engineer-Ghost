@@ -10,8 +10,8 @@ baseurl: /
 # Website info
 title: MeruDynamics
 description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+cover: assets/images/blog-cover.jpg #My Post.jpg #
+logo: assets/images/blog-icon.png #My Post.jpg #
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://merudynamics.com/

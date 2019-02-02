@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/simulation/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-02-01T12:21:26-05:00</updated>
+  <updated>2019-02-02T10:39:33-05:00</updated>
   <id>http://localhost:4000/tag/simulation/feed.xml</id>
 
   
@@ -49,10 +49,15 @@
       <published>2019-01-30T05:00:00-05:00</published>
       <updated>2019-01-30T05:00:00-05:00</updated>
       <id>http://localhost:4000/model-based-design</id>
-      <content type="html" xml:base="http://localhost:4000/model-based-design">&lt;p&gt;Model based design approach is way to rapidly design system with mathematical blocks.
-In MBD a model is a description of a system using mathematical equations. Model may help to explain a system behavior under external excitation.
-&lt;img src=&quot;https://dl.dropboxusercontent.com/s/2dvfin1jxg5t9cx/MBD.png?dl=0&quot; alt=&quot;&quot; /&gt;
-MBD can be use in all development stages like Research, Design, Implementation and Verification and Validation. It helps engineer to rapidly iterate and optimize system under development and test new ideas.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/model-based-design">&lt;p&gt;Model based design approach is the way to define physical system in the form of mathematical equations. MBD can be accelerated using tools and software, which uses mathematical, blocks i.e. Simulink, Labview.&lt;/p&gt;
+
+&lt;p&gt;Blocks represent basic mathematical operations. When you connect blocks together, the resulting diagram is equivalent to the mathematical model, or representation, of the system under design.&lt;/p&gt;
+
+&lt;p&gt;In MBD a model is a description of a system using mathematical equations. Model may help to explain a system behavior under external excitation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/2dvfin1jxg5t9cx/MBD.png?dl=0&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MBD can be use in all development stages like Research, Design, Implementation and Verification and Validation. It helps engineer to rapidly iterate and optimize system under development and test new ideas.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Current popular Modeling tools can be used are.&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -87,7 +92,7 @@ MBD can be use in all development stages like Research, Design, Implementation a
       
 
       
-        <summary type="html">Model based design approach is way to rapidly design system with mathematical blocks. In MBD a model is a description of a system using mathematical equations. Model may help to explain a system behavior under external excitation. MBD can be use in all development stages like Research, Design, Implementation and Verification and Validation. It helps engineer to rapidly iterate and optimize system under development and test new ideas.</summary>
+        <summary type="html">Model based design approach is the way to define physical system in the form of mathematical equations. MBD can be accelerated using tools and software, which uses mathematical, blocks i.e. Simulink, Labview.</summary>
       
 
       
