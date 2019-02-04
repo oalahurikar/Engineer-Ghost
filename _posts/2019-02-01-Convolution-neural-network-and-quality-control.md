@@ -1,8 +1,8 @@
 ---
 layout: post
 current: post
-cover: # assets/images/QualityControl.jpg
-link: https://dl.dropboxusercontent.com/s/fblx8197fejxq7z/Quality%20Control.JPG?dl=0 #https://dl.dropboxusercontent.com/s/ow006lzstpc0tf1/CNN.JPG?dl=0
+cover: assets/images/QualityControl.jpg
+link: # https://dl.dropboxusercontent.com/s/fblx8197fejxq7z/Quality%20Control.JPG?dl=0 #https://dl.dropboxusercontent.com/s/ow006lzstpc0tf1/CNN.JPG?dl=0
 navigation: True
 title: Convolution neural network and quality control
 date: '2019-02-01 10:00:00 +0000'
