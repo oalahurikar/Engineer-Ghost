@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/rapid-prototyping/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-02-04T14:20:27-05:00</updated>
+  <updated>2019-02-04T14:57:51-05:00</updated>
   <id>http://localhost:4000/tag/rapid-prototyping/feed.xml</id>
 
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">Rapid prototyping with Motion Simulation for machine design</title>
-      <link href="http://localhost:4000/Rapid-prototyping-with-Motion-Simulation-for-machine-designee" rel="alternate" type="text/html" title="Rapid prototyping with Motion Simulation for machine design" />
+      <link href="http://localhost:4000/Rapid-prototyping" rel="alternate" type="text/html" title="Rapid prototyping with Motion Simulation for machine design" />
       <published>2019-02-01T05:00:00-05:00</published>
       <updated>2019-02-01T05:00:00-05:00</updated>
-      <id>http://localhost:4000/Rapid-prototyping-with-Motion-Simulation-for-machine-designee</id>
-      <content type="html" xml:base="http://localhost:4000/Rapid-prototyping-with-Motion-Simulation-for-machine-designee">&lt;p&gt;Integrating Solidworks assembly into controls environment will allow rapid prototyping, testing and improve parallel development process.&lt;/p&gt;
+      <id>http://localhost:4000/Rapid-prototyping</id>
+      <content type="html" xml:base="http://localhost:4000/Rapid-prototyping">&lt;p&gt;Integrating Solidworks assembly into controls environment will allow rapid prototyping, testing and improve parallel development process.&lt;/p&gt;
 
 &lt;p&gt;This is possible by Interfacing Labview NI SoftMotion or Simscape multibody dynamics with Solidworks motion simulation. Where one can easily import solidworks design into Simulink or labview environment.&lt;/p&gt;
 
