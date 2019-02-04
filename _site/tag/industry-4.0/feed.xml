@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/industry-4.0/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-02-04T15:11:25-05:00</updated>
+  <updated>2019-02-04T15:28:14-05:00</updated>
   <id>http://localhost:4000/tag/industry-4.0/feed.xml</id>
 
   
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">Convolution neural network and quality control</title>
-      <link href="http://localhost:4000/Convolution-neural-network-and-quality-control" rel="alternate" type="text/html" title="Convolution neural network and quality control" />
+      <link href="http://localhost:4000/CNN-QC" rel="alternate" type="text/html" title="Convolution neural network and quality control" />
       <published>2019-02-01T05:00:00-05:00</published>
       <updated>2019-02-01T05:00:00-05:00</updated>
-      <id>http://localhost:4000/Convolution-neural-network-and-quality-control</id>
-      <content type="html" xml:base="http://localhost:4000/Convolution-neural-network-and-quality-control">&lt;p&gt;Quality control and assurance in manufacturing is demanding and expensive, yes, but also crucial. After all, selling flawed goods results in returns and disappointed customers.&lt;/p&gt;
+      <id>http://localhost:4000/CNN-QC</id>
+      <content type="html" xml:base="http://localhost:4000/CNN-QC">&lt;p&gt;Quality control and assurance in manufacturing is demanding and expensive, yes, but also crucial. After all, selling flawed goods results in returns and disappointed customers.&lt;/p&gt;
 
 &lt;p&gt;Harnessing the power of neural networks may significantly reduce the cost of visual quality control while also boosting overall process efficiency.&lt;/p&gt;
 

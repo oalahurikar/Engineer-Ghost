@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/simulation/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-02-04T15:11:25-05:00</updated>
+  <updated>2019-02-04T15:28:14-05:00</updated>
   <id>http://localhost:4000/tag/simulation/feed.xml</id>
 
   
@@ -45,11 +45,11 @@
   
     <entry>
       <title type="html">Model based design</title>
-      <link href="http://localhost:4000/model-based-design" rel="alternate" type="text/html" title="Model based design" />
+      <link href="http://localhost:4000/MBD" rel="alternate" type="text/html" title="Model based design" />
       <published>2019-01-30T05:00:00-05:00</published>
       <updated>2019-01-30T05:00:00-05:00</updated>
-      <id>http://localhost:4000/model-based-design</id>
-      <content type="html" xml:base="http://localhost:4000/model-based-design">&lt;p&gt;Model based design approach is the way to define physical system in the form of mathematical equations. MBD can be accelerated using tools and software, which uses mathematical, blocks i.e. Simulink, Labview.&lt;/p&gt;
+      <id>http://localhost:4000/MBD</id>
+      <content type="html" xml:base="http://localhost:4000/MBD">&lt;p&gt;Model based design approach is the way to define physical system in the form of mathematical equations. MBD can be accelerated using tools and software, which uses mathematical, blocks i.e. Simulink, Labview.&lt;/p&gt;
 
 &lt;p&gt;Blocks represent basic mathematical operations. When you connect blocks together, the resulting diagram is equivalent to the mathematical model, or representation, of the system under design.&lt;/p&gt;
 
