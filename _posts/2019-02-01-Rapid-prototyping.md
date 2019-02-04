@@ -5,7 +5,7 @@ cover: assets/images/MultibodyLab.png
 link: #https://dl.dropboxusercontent.com/s/6m79l7ae3pzbr7l/MultibodyLab.png?dl=0
 navigation: True
 title: Rapid prototyping with Motion Simulation for machine design
-date: 2019-02-01 10:00:00
+date: 2019-02-03 10:00:00
 tags:
 - Industry 4.0
 - Rapid prototyping

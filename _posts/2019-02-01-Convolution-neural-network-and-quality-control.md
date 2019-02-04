@@ -5,17 +5,16 @@ cover: assets/images/QualityControl.jpg
 link: # https://dl.dropboxusercontent.com/s/fblx8197fejxq7z/Quality%20Control.JPG?dl=0 #https://dl.dropboxusercontent.com/s/ow006lzstpc0tf1/CNN.JPG?dl=0
 navigation: True
 title: Convolution neural network and quality control
-date: '2019-02-01 10:00:00 +0000'
+date: 2019-02-01 10:00:00
 tags:
 - Industry 4.0
 - Artificial-Intelligence
 class: post-template
-subclass: post tag-simulation
+subclass: 'post tag-getting-started'
 author: Abhay
 ---
 
 Quality control and assurance in manufacturing is demanding and expensive, yes, but also crucial. After all, selling flawed goods results in returns and disappointed customers.
-
 
 Harnessing the power of neural networks may significantly reduce the cost of visual quality control while also boosting overall process efficiency.
 

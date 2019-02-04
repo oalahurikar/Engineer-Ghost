@@ -6,7 +6,7 @@ link: #https://dl.dropboxusercontent.com/s/p7qtwvq0wt1sfzi/Engineering%20Design%
 navigation: True
 title: Model based design
 date: 2019-01-30 10:00:00
-categories: [blog, travel]
+categories: null
 tags: simulation
 class: post-template
 subclass: 'post tag-simulation'
