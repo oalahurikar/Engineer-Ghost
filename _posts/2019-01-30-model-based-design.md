@@ -1,8 +1,8 @@
 ---
 layout: post
 current: post
-cover:  
-link: https://dl.dropboxusercontent.com/s/p7qtwvq0wt1sfzi/Engineering%20Design%20Process%20%28edited-Pixlr%29.jpg?dl=0
+cover:  assets/images/EngineeringDesign.jpg
+link: #https://dl.dropboxusercontent.com/s/p7qtwvq0wt1sfzi/Engineering%20Design%20Process%20%28edited-Pixlr%29.jpg?dl=0
 navigation: True
 title: Model based design
 date: 2019-01-30 10:00:00
@@ -27,4 +27,4 @@ MBD can be use in all development stages like Research, Design, Implementation a
 1. Text based:
 - Python, Matlab
 1. Block based:
-- Simulink, SimulationX, Modelica, Labview
+- Simulink, SimulationX, Modelica, Labview, Amesim, NX mechatronics concept designer

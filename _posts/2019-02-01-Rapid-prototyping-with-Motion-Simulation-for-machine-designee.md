@@ -2,8 +2,8 @@
 title: Rapid prototyping with Motion Simulation for machine design
 layout: post
 current: post
-cover: null
-link: https://dl.dropboxusercontent.com/s/6m79l7ae3pzbr7l/MultibodyLab.png?dl=0
+cover: assets/images/MultibodyLab.png
+link: #https://dl.dropboxusercontent.com/s/6m79l7ae3pzbr7l/MultibodyLab.png?dl=0
 date: '2019-02-01 10:00:00 +0000'
 categories: null
 tags:

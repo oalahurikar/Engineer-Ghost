@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/simulation/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-02-04T11:02:15-05:00</updated>
+  <updated>2019-02-04T14:20:27-05:00</updated>
   <id>http://localhost:4000/tag/simulation/feed.xml</id>
 
   
@@ -68,7 +68,7 @@
   &lt;/li&gt;
   &lt;li&gt;Block based:
     &lt;ul&gt;
-      &lt;li&gt;Simulink, SimulationX, Modelica, Labview&lt;/li&gt;
+      &lt;li&gt;Simulink, SimulationX, Modelica, Labview, Amesim, NX mechatronics concept designer&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ol&gt;</content>
