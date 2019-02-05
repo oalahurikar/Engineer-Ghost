@@ -24,7 +24,7 @@ subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: MeruDynamics # replace by your username
-facebook: ghost # replace by your username
+facebook: MeruDynamics-293981504502969/?view_public_for=293981504502969 # replace by your username
 
 # Disqus
 disqus: False
