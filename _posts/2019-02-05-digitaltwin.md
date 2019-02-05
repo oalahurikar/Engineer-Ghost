@@ -1,19 +1,21 @@
 ---
 layout: post
 current: post
-cover:  #assets/images/EngineeringDesign.png
-link: #https://dl.dropboxusercontent.com/s/owo8zkjwu1lg9ch/DigitalTwin.JPG?dl=0
+cover:  assets/images/DigitalTwin.png
 navigation: True
-title: Continuous engineering with digital twin
+title: Continuous Engineering with Digital Twin
 date: 2019-02-05 10:00:00
-tags: [simulation, Industry 4.0, Rapid prototyping]
+tags:
+- simulation
+- Industry 4.0
 class: post-template
-subclass: 'post tag-simulation'
+subclass: 'post tag-getting-started'
 author: Abhay
 ---
 
+In past NASA used to have physical twin of rocket as back up if things go south.
 
-In past NASA used to have physical twin of rocket as back up if things go south. Similarly, digital twin is digital representation of actual system or model of the device.
+Similarly, digital twin is digital representation of actual system or model of the device.
 
 It can also be visualized as integration between system design,
 ["MBD"](https://merudynamics.com/mbd) and IOT. Digital twin can extend further, where it acts as middleware for end-to-end development cycle. Further real-time data from sensor of machine or its environment help to analyze data and to optimize the product.
