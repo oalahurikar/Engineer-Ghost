@@ -1,7 +1,8 @@
 ---
 layout: post
 current: post
-cover:  assets/images/DigitalTwin.png
+cover:  assets/images/DigitalTwin.JPG
+link: #https://dl.dropboxusercontent.com/s/owo8zkjwu1lg9ch/DigitalTwin.JPG?dl=0
 navigation: True
 title: Continuous Engineering with Digital Twin
 date: 2019-02-05 10:00:00
