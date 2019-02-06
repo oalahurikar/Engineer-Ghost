@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/gettysburg-address</loc>
-<lastmod>1863-11-19T05:21:54-04:56</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/down-the-rabbit-hole</loc>
-<lastmod>1865-11-26T05:21:54-04:56</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/looking-glass-house</loc>
-<lastmod>1871-03-18T05:21:54-04:56</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/out-to-sea</loc>
-<lastmod>1912-07-24T05:18:00-05:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/the-purpose-of-education</loc>
 <lastmod>1948-12-12T05:18:00-05:00</lastmod>
 </url>
@@ -27,10 +11,6 @@
 <url>
 <loc>http://localhost:4000/a-full-and-comprehensive-style-test</loc>
 <lastmod>2012-09-01T06:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/the-businessman-and-fisherman</loc>
-<lastmod>2014-08-12T06:18:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/themes</loc>
@@ -74,7 +54,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/digitaltwin</loc>
-<lastmod>2019-02-05T05:00:00-05:00</lastmod>
+<lastmod>2019-02-06T05:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -89,13 +69,7 @@
 <loc>http://localhost:4000/test/test</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/fiction/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/tag/speeches/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tag/fables/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/getting-started/</loc>
@@ -113,6 +87,12 @@
 <loc>http://localhost:4000/tag/rapid-prototyping/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tag/industry/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/4.0/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/author/ghost/</loc>
 </url>
 <url>
@@ -120,15 +100,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/author/john/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/author/lewis/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/author/abraham/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/author/edgar/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/author/martin/</loc>

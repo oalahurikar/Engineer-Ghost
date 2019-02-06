@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/simulation/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-02-06T17:07:37-05:00</updated>
+  <updated>2019-02-06T18:07:29-05:00</updated>
   <id>http://localhost:4000/tag/simulation/feed.xml</id>
 
   
@@ -42,57 +42,6 @@
   
   
 
-  
-    <entry>
-      <title type="html">Continuous Engineering with Digital Twin</title>
-      <link href="http://localhost:4000/digitaltwin" rel="alternate" type="text/html" title="Continuous Engineering with Digital Twin" />
-      <published>2019-02-05T05:00:00-05:00</published>
-      <updated>2019-02-05T05:00:00-05:00</updated>
-      <id>http://localhost:4000/digitaltwin</id>
-      <content type="html" xml:base="http://localhost:4000/digitaltwin">&lt;p&gt;In past NASA used to have physical twin of rocket as back up if things go south.&lt;/p&gt;
-
-&lt;p&gt;Similarly, digital twin is digital representation of actual system or model of the device.&lt;/p&gt;
-
-&lt;p&gt;It can also be visualized as integration between system design,
-&lt;a href=&quot;https://merudynamics.com/mbd&quot;&gt;“MBD”&lt;/a&gt; and IOT. Digital twin can extend further, where it acts as middleware for end-to-end development cycle. Further real-time data from sensor of machine or its environment help to analyze data and to optimize the product.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/owo8zkjwu1lg9ch/DigitalTwin.JPG?dl=0&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Within next few years billions of things will be represented by digital twins. Following are leading platform as service providers in this technology and there are more from HVAC to Rockets.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/en-us/services/digital-twins/&quot;&gt;“Azure Digital twin”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ibm.com/internet-of-things/trending/digital-twin&quot;&gt;“IBM Watson digital twin”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.plm.automation.siemens.com/global/en/our-story/glossary/digital-twin/24465&quot;&gt;“Siemens digital twin”&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Abhay Lahurikar</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="simulation" />
-      
-        <category term="Industry 4.0" />
-      
-
-      
-        <summary type="html">In past NASA used to have physical twin of rocket as back up if things go south.</summary>
-      
-
-      
-      
-    </entry>
   
     <entry>
       <title type="html">Model based design</title>

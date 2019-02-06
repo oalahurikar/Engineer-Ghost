@@ -1,14 +1,12 @@
 ---
 layout: post
 current: post
-cover:  assets/images/DigitalTwin.JPG
+cover: assets/images/DigitalTwin.JPG
 link: #https://dl.dropboxusercontent.com/s/owo8zkjwu1lg9ch/DigitalTwin.JPG?dl=0
 navigation: True
-title: Continuous Engineering with Digital Twin
-date: 2019-02-05 10:00:00
-tags:
-- simulation
-- Industry 4.0
+title: Engineering with Digital Twin
+date: 2019-02-06 10:00:00
+tags: Industry 4.0
 class: post-template
 subclass: 'post tag-getting-started'
 author: abhay
