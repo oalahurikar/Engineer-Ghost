@@ -8,17 +8,17 @@ ghost:
   facebook: ghost
   twitter: tryghost
   cover: False
-hannah:
-  username: Abhay
+abhay:
+  username: abhay
   name: Abhay Lahurikar
   location: India, Maharashtra
   url_full: False
-  url: False
-  bio: Abhay is the co-founder and lead developer at MeruDynamics. He spends his days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
+  url: False #merudynamics.com/author/Abhay/
+  bio: Abhay is the co-founder and lead developer at MeruDynamics. He spends his days looking after MeruDynamics's developer community, tracking down bugs & ensuring MeruDynamics is a happy place.
   picture: assets/images/ghost.png
   facebook: False
   twitter: False
-  cover: assets/images/ghost.png
+  cover: False #assets/images/ghost.png
 john:
   username: john
   name: John O'Nolan

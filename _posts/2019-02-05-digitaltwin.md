@@ -10,7 +10,7 @@ tags:
 - Industry 4.0
 class: post-template
 subclass: 'post tag-getting-started'
-author: Abhay
+author: abhay
 ---
 
 In past NASA used to have physical twin of rocket as back up if things go south.
