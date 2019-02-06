@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/artificial-intelligence/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-02-05T15:42:52-05:00</updated>
+  <updated>2019-02-06T07:17:31-05:00</updated>
   <id>http://localhost:4000/tag/artificial-intelligence/feed.xml</id>
 
   
@@ -44,8 +44,8 @@
 
   
     <entry>
-      <title type="html">Convolution neural network and quality control</title>
-      <link href="http://localhost:4000/CNN-QC" rel="alternate" type="text/html" title="Convolution neural network and quality control" />
+      <title type="html">Quality Control with AI</title>
+      <link href="http://localhost:4000/CNN-QC" rel="alternate" type="text/html" title="Quality Control with AI" />
       <published>2019-02-01T05:00:00-05:00</published>
       <updated>2019-02-01T05:00:00-05:00</updated>
       <id>http://localhost:4000/CNN-QC</id>
@@ -56,7 +56,7 @@
 &lt;p&gt;According to &lt;a href=&quot;https://www.forbes.com/sites/louiscolumbus/2018/03/11/10-ways-machine-learning-is-revolutionizing-manufacturing-in-2018/#3f93487723ac&quot;&gt;“Forbes”&lt;/a&gt;
 , automating quality control with machine learning can increase defect detection rates up to 90%.&lt;/p&gt;
 
-&lt;p&gt;Instead of embedding complex and lengthy lists of possible flaws into an algorithm, the convolutional neural network (CNN) learns the product’s features.&lt;/p&gt;
+&lt;p&gt;Instead of embedding complex and lengthy lists of possible flaws into an algorithm, the convolutional neural network learns the product’s features. Convolutional neural network (CNN) is branch of artificial intelligence which learns image features.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/ow006lzstpc0tf1/CNN.JPG?dl=0&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
