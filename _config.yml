@@ -9,11 +9,11 @@ language: 'en-uk'
 baseurl: /
 # Website info
 title: MeruDynamics
-description: The professional publishing platform
+description: The engineering publishing platform
 cover: assets/images/blog-cover.jpg #My Post.jpg #
-logo: assets/images/blog-icon.png #My Post.jpg #
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: assets/images/meru-icon1.png  #blog-icon.png #My Post.jpg #
+logo_dark: assets/images/favicon-meru2.png
+favicon: assets/images/favicon-meru2.png #favicon.png
 production_url: https://merudynamics.com/
 source_url: https://github.com/jekyller/jasper2/
 CNAME: #add cname for website to be created
@@ -25,6 +25,7 @@ subscribers: True # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: MeruDynamics # replace by your username
 facebook: MeruDynamics # replace by your username
+linkedin: MeruDynamics
 
 # Disqus
 disqus: False

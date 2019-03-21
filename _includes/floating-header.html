@@ -11,7 +11,7 @@
     <div class="floating-header-title">{{ page.title }}</div>
     <div class="floating-header-share">
 
-        <a class="floating-header-share-tw" href="https://www.linkedin.com/shareArticle?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}"
+        <a class="floating-header-share-tw" href="https://www.linkedin.com/shareArticle?{{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url }}"
             onclick="window.open(this.href, 'share-linkedin', 'width=550,height=235');return false;">
             {% include linkedin.html %}
         </a>
