@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-MeruDynamics is engineering publishing platform designed for latest technology. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+MeruDynamics is engineering publishing platform designed for latest technology. We publish information about technology and tools to solve hard engineering problems.
 
 > If you'd like to see our engineering services, head over to [MeruDynamics.tech](https://merudynamics.tech/) and subscribe to give MeruDynamics engineering services a try!
 
